@@ -1,7 +1,4 @@
 # Bryant Klein
 
-:mailbox: kleinb1616@gmail.com\
-:book:App Academy August Cohort\
-:school:Montclair State University: B.S. Exercise Science\
-:house:Rochelle Park, New Jersey
+Personal Trainer/Strength and Conditioning Specialist turned aspiring Web Developer. Currently taking part in the App Accademy Full Stack curriculum.
 
