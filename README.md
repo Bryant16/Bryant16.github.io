@@ -4,4 +4,4 @@
 -:book:App Academy August Cohort\
 -:school:Montclair State University, B.S. Exercise Science\
 -::house:Rochelle Park, New Jersey\
-\
+
